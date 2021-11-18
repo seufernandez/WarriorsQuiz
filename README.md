@@ -18,6 +18,7 @@ This project was made using the followings Technologies:
 - [React](https://pt-br.reactjs.org/)
 - [Material UI](https://mui.com/)
 - [Formik](https://formik.org/)
+- [Framer-Motion](https://www.framer.com/motion/)
 - [Yup](https://github.com/jquense/yupp)
 - [React Icons](https://react-icons.github.io/react-icons/)
 
