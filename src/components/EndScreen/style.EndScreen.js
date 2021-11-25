@@ -1,8 +1,5 @@
 import { makeStyles } from '@material-ui/core/styles';
-import { styled } from '@mui/system';
-import { buttonUnstyledClasses } from '@mui/core/ButtonUnstyled';
-import { green, grey, red, blue } from '@mui/material/colors';
-import { Accordion } from '@mui/material/Accordion';
+import { grey } from '@mui/material/colors';
 
 export const useEndScreenStyles = makeStyles({
   paper: {
